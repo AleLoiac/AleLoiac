@@ -25,6 +25,12 @@
 </div>
 <div align="center">
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleLoi&theme=merko&date_format=j%20M%5B%20Y%5D&fire=33DD4B)](https://git.io/streak-stats)
+
+</div>
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleLoiac)](https://github.com/AleLoiac/github-readme-stats)
 
 </div>
+
