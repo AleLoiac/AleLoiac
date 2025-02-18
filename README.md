@@ -1,7 +1,7 @@
 # Ale
 
 <h3 align="center">Welcome!</h3>
-<p align="center">Hi, I'm Alessandro, a junior backend developer, currently learning Go</p>
+<p align="center">Hi, I'm Alessandro, a junior developer, currently learning Js</p>
 
 <h3 align="center">Languages and tools</h3>
 
