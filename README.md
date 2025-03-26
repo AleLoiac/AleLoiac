@@ -17,7 +17,7 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--
+
 </div>
 
 <h3 align="center">Stats</h3>
@@ -27,14 +27,10 @@
 ![AleLoiac's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleLoiac&show_icons=true&theme=merko)
 
 </div>
+
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleLoiac&theme=merko&date_format=j%20M%5B%20Y%5D&fire=33DD4B)](https://git.io/streak-stats)
-
-</div>
-<div align="center">
--->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleLoiac)](https://github.com/AleLoiac/github-readme-stats)-->
 
 </div>
 
